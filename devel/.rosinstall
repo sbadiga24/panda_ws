@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/atom/Documents/ros/panda_ws/devel/setup.sh
